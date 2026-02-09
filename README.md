@@ -1,4 +1,4 @@
-# AI Gateway
+# API Gateway
 
 A production-grade API Gateway implementing enterprise resilience patterns for routing and orchestrating AI services.
 
